@@ -165,7 +165,7 @@ index.html
 ### 3️⃣ Add Sheet ID
 
 ```javascript
-var SHEET_ID = "YOUR_SHEET_ID";
+var SHEET_ID = "1UR4s4wmbhKz49SNG-PeM9xu_hZPeQ7NwsNqg0w67Jgs";
 ```
 
 ---
@@ -191,10 +191,10 @@ setupSheet()
 ## 🌐 Live Demo
 
 👉 **Web App:**
-(Add your deployed link here)
+https://script.google.com/macros/s/AKfycbwh6a9DjSh3CjoCzhlOex7VeEXnQLAYG_ZbaNrwC_Wlx8ja2r8G-urq_HhVp-NLLrP_Ng/exec
 
 👉 **Google Sheet:**
-(Add your sheet link here)
+1UR4s4wmbhKz49SNG-PeM9xu_hZPeQ7NwsNqg0w67Jgs
 
 ---
 
